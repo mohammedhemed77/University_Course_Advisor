@@ -38,7 +38,7 @@ The "Brain" of this advisor is a **Random Forest Classifier** that analyzes the 
 - **Language:** Python 3.x
 - **Libraries:** Pandas, Scikit-Learn, PyTorch, NumPy
 - **Models:** Random Forest (Baseline), Transformers (Experimental/AutoTrain)
-- **Deployment:** Hugging Face Spaces & AutoTrain
+
 
 ## 🚦 Getting Started
 1. **Prepare Data:** Place `studentInfo.csv` and `studentVle.csv` in the project root.
