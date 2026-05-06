@@ -2,6 +2,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Scikit-Learn](https://img.shields.io/badge/Model-Random%20Forest-orange)](https://scikit-learn.org/)
 
+## Dataset : OULAD link : https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad
 
 ## 📌 Project Overview
 This project transforms raw academic data into an **AI Student Advisor**. By utilizing the **Open University Learning Analytics Dataset (OULAD)**, the system identifies "at-risk" students by analyzing behavioral patterns (clicks) and demographic data.
