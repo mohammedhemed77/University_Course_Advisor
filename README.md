@@ -1,7 +1,7 @@
 # 🎓 University Student Advisor: Early Warning System (EWS)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Scikit-Learn](https://img.shields.io/badge/Model-Random%20Forest-orange)](https://scikit-learn.org/)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-AutoTrain-yellow)](https://huggingface.co/autotrain)
+
 
 ## 📌 Project Overview
 This project transforms raw academic data into an **AI Student Advisor**. By utilizing the **Open University Learning Analytics Dataset (OULAD)**, the system identifies "at-risk" students by analyzing behavioral patterns (clicks) and demographic data.
